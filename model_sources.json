@@ -1,0 +1,20 @@
+[
+  {
+    "id": "M1",
+    "publisher": "Anthropic",
+    "title": "Introducing Claude Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "published": "2026-09-28",
+    "checked": "2026-11-23",
+    "supports": "Sonnet 5.5 is in the Claude 5.5 family; release date; faster, lower-cost complement to Opus 5.5; well-scoped everyday work versus complex sustained judgment."
+  },
+  {
+    "id": "M2",
+    "publisher": "Anthropic",
+    "title": "Claude Opus 5.5 — Claude Platform Docs",
+    "url": "https://platform.claude.com/docs/en/models/opus-5-5/overview",
+    "released": "2026-09-22",
+    "checked": "2026-11-23",
+    "supports": "Opus release date and intended workloads; comparative latency: Opus Moderate, Sonnet Fast."
+  }
+]

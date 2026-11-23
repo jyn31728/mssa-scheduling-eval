@@ -1,0 +1,86 @@
+[
+  {
+    "type": 1,
+    "cases": [
+      "S01",
+      "S02"
+    ],
+    "models": {
+      "claude-opus-5-5": {
+        "n": 6,
+        "original_pass": 3,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 33.651711716675585
+      },
+      "claude-sonnet-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 31.363881099998252
+      }
+    }
+  },
+  {
+    "type": 2,
+    "cases": [
+      "S03",
+      "S04"
+    ],
+    "models": {
+      "claude-opus-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 41.23373573331628
+      },
+      "claude-sonnet-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 36.46684611667297
+      }
+    }
+  },
+  {
+    "type": 3,
+    "cases": [
+      "S05",
+      "S06"
+    ],
+    "models": {
+      "claude-opus-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 32.698024066669554
+      },
+      "claude-sonnet-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 29.509364000026835
+      }
+    }
+  },
+  {
+    "type": 4,
+    "cases": [
+      "S07",
+      "S08"
+    ],
+    "models": {
+      "claude-opus-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 52.63770776666934
+      },
+      "claude-sonnet-5-5": {
+        "n": 6,
+        "original_pass": 6,
+        "posthoc_outcome_match": 6,
+        "mean_seconds": 46.90791641667602
+      }
+    }
+  }
+]

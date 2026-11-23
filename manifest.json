@@ -1,0 +1,17 @@
+{
+  "version": "1.1-claude-code",
+  "models": [
+    "claude-opus-5-5",
+    "claude-sonnet-5-5"
+  ],
+  "repetitions": 3,
+  "effort": "medium",
+  "max_steps": 12,
+  "timeout": 180,
+  "case_sha256": "b2a153fe5a6464885f3193b5692152b0b3e53546f0cfa7092c67403d779bb966",
+  "schema_sha256": "a342d11f77a58480c38b6a798afebe5cc1fc6d89dc5bb53f71b2fc8919eb9008",
+  "script_sha256": "68c1f249d14783aa94479e9b93bff0a00a24166000218c4947e4cc3b9b777b89",
+  "planned_trials": 48,
+  "scope": "Claude Code CLI를 통한 단계별 JSON 모의 도구 의사결정. 네이티브 도구 평가 아님.",
+  "created_at_utc": "2026-11-22T17:37:30.954781+00:00"
+}

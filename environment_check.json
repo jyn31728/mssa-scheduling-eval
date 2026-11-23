@@ -1,0 +1,7 @@
+{
+  "checked_on": "2026-11-22",
+  "backend": "Claude Code",
+  "claude_cli_installed": false,
+  "scored_model_trials": 0,
+  "note": "Local software tests and CLI-error handling only. Actual subscription login and model calls must be verified on the user computer."
+}

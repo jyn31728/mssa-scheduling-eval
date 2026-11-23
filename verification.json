@@ -1,0 +1,11 @@
+{
+  "kind": "software_verification_only",
+  "tests_passed": 28,
+  "tests_failed": 0,
+  "real_model_trials": 0,
+  "model_connection": "not_tested_claude_cli_not_installed",
+  "missing_cli_smoke_check": "passed",
+  "verified_on": "2026-11-23",
+  "compatibility_fix": "inline_system_prompt",
+  "copy_and_paste_patch": "matches_tested_script"
+}
